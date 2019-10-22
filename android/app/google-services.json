@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "72622503142",
+    "firebase_url": "https://lojaonlineflutter-af170.firebaseio.com",
+    "project_id": "lojaonlineflutter-af170",
+    "storage_bucket": "lojaonlineflutter-af170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72622503142:android:289c70df859bf8dd4ab727",
+        "android_client_info": {
+          "package_name": "br.com.darlansilva.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72622503142-f893omigbthb02h8f36p3no32lv69qf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7TMbVXK_btPCjsMXmMFok3yZbsON7oFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72622503142-f893omigbthb02h8f36p3no32lv69qf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
